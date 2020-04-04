@@ -1,6 +1,16 @@
 
 public class MyTraining extends Tester{
 
+	
+	public static void main(String args[]){
+		
+		System.out.println("My first commit to GITHUB is ready");
+	}
+	
+	
+	
+	
+	
 	@Override
 	public void writeTestCase(int age) {
 		
